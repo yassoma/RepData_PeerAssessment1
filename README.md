@@ -1,5 +1,7 @@
 ## Introduction
 
+This is my submitted solution to the assignment for Week 2 of Reproducable Research (Coursera). The text below describes the assignment.
+
 It is now possible to collect a large amount of data about personal
 movement using activity monitoring devices such as a
 [Fitbit](http://www.fitbit.com), [Nike
